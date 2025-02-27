@@ -7,6 +7,6 @@
   },
   "dependencies": {
     "@remix-run/architect": "*",
-    "aws-sdk": "2.796.0"
+    "aws-sdk": "2.814.0"
   }
 }
